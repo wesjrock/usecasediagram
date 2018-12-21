@@ -21,6 +21,10 @@ SCOPE
 --------------------------------------------------
 The Librariy System allows the registration and consultation of books that are acquired by the library, maintaining a history of all loans and returns already made and storing current information regarding outstanding loans, books and reserves, which can be consulted at any time by system user.
 
+COMPUTER-AIDED SOFTWARE ENGINEERING APPLICATION
+--------------------------------------------------
+For this project it was used Astash* which is an UML modelling tool.
+
 EXAMPLES
 --------------------------------------------------
 ![Screenshot 1](img/img1.png)
@@ -31,3 +35,4 @@ MORE INFO
 * Please check the files: `project report.pdf` and `Requirements Document.pdf`
 * CASE Software: <https://en.wikipedia.org/wiki/Computer-aided_software_engineering>
 * UML Use Case Diagram: <https://en.wikipedia.org/wiki/Use_case_diagram>
+* Astash software: <https://en.wikipedia.org/wiki/Astah*>
