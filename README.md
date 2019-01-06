@@ -30,6 +30,14 @@ EXAMPLES
 ![Screenshot 1](img/img1.png)
 ![Screenshot 2](img/img2.png)
 
+CREDITS
+--------------------------------------------------
+- Aulos Plautius Martines Marino
+- Bruno Pinto Ferraz Fabbri
+- Henrique Pasquini Santos
+- Renato Zane
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check the files: `project report.pdf` and `Requirements Document.pdf`
